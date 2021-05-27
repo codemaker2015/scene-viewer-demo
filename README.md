@@ -27,7 +27,7 @@ You can use an explicit Android intent to launch Scene Viewer. It can be trigger
   <h1>Scene Viewer Demo</h1>
   <p>See Avacado in your 3D space</p>
   <a href="intent://arvr.google.com/scene-viewer/1.0?file=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Avocado/glTF/Avocado.gltf#Intent;scheme=https;package=com.google.android.googlequicksearchbox;action=android.intent.action.VIEW;S.browser_fallback_url=https://developers.google.com/ar;end;">
-    <img src="https://solidstarts.com/wp-content/uploads/introducing-avocado-to-babies-480x320.webp" />
+    <img src="https://raw.githubusercontent.com/codemaker2015/scene-viewer-demo/master/resources/avocado.webp" />
   </a> <br />
   <a href="intent://arvr.google.com/scene-viewer/1.0?file=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Avocado/glTF/Avocado.gltf#Intent;scheme=https;package=com.google.android.googlequicksearchbox;action=android.intent.action.VIEW;S.browser_fallback_url=https://developers.google.com/ar;end;">
     Click Here
