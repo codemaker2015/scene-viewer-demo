@@ -38,7 +38,7 @@ You can use an explicit Android intent to launch Scene Viewer. It can be trigger
 ```
 
 ### Screenshots
-<img src="resources/demo.gif" width="270" height="585 />
+<img src="resources/demo.gif" width="270" height="585" />
 ![Screenshot1](resources/screenshot1.jpeg)
 ![Screenshot2](resources/screenshot2.jpeg)
 ![Screenshot3](resources/screenshot3.jpeg)
