@@ -39,9 +39,15 @@ You can use an explicit Android intent to launch Scene Viewer. It can be trigger
 
 ### Screenshots
 
-<img src="resources/demo.gif" width="250" height="565" />
+| Android Demo  | Web Demo      |
+| ------------- | ------------- |
+| <img src="resources/demo.gif" width="250" height="565" />  | <img src="resources/screenshot1.jpeg" width="250" height="565" />  |
+| <img src="resources/screenshot2.jpeg" width="250" height="565" />  | <img src="resources/screenshot3.jpeg" width="250" height="565" />  |
 
-![Screenshot1](resources/screenshot1.jpeg)
-![Screenshot2](resources/screenshot2.jpeg)
-![Screenshot3](resources/screenshot3.jpeg)
+
+
+
+
+
+
 
